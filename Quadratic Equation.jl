@@ -20,5 +20,3 @@ function QuadEqua(a, b, c)
         println("x₁ = $(paf2) and x₂ = $(naf2)")
     end
 end
-
-QuadEqua(1,-4,4)
